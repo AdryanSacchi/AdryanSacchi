@@ -2,7 +2,7 @@
 
 <div>
     <a href="https://github.com/AdryanSacchi">
-    <img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/5238841e-2ee3-4937-92cd-f0c5ad4695e6" />
+    <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/5238841e-2ee3-4937-92cd-f0c5ad4695e6" />
     
 
 
